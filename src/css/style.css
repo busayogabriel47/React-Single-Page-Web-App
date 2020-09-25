@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkkhaki;
+}
+.navbar-brand{
+    color: darkorange;
+    font-weight: bold;
+}
+
+.bg-dark {
+    padding: 1.1em
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    padding: .4em;
+    border-radius: 9px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+
+.nav-item{
+    background-color: #fff;
+    margin-right: 3em;
+    border-radius: 5px;
+    color: #000 !important;
+}
+.nav-item .nav-link{
+    color: #000 !important;
+    font-weight: bold;
+    font-size: 0.7rem;
+    padding: .4em;
+    text-decoration: none !important;
+    border-radius: 9px;
+}
+
+
+.activate {
+    background: darkorange;
+    padding: .4em;
+    border-radius: 9px;
+    font-weight: bold;
+    color: #000;
+
+}
+
+.active:hover {
+    text-decoration: none !important;
+}
+
+.App{
+    background-color: #fff;
+}
+.home_page {
+    background-color: #fff !important;
+}
+.home_page h2{
+    text-align: center !important;
+    font-size: 1.5rem;
+    color: darkorange;
+    font-weight: bold;
+    font-family: monospace;
+}
+.home_image:hover, .home_image_col:hover,
+.home_image_col1:hover, .home_image_col2:hover {
+    transform: scale(1.0);
+}
+
+.home_image {
+    background-image: url("https://pmcvariety.files.wordpress.com/2019/02/oscar-acting-winners.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-position: center;
+    transition: all 0.25s ease-in-out;
+
+}
+.home_image_col {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC18ZlshQkExOUHSN11LYKtru0cG4QFYYqCg&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    border: 14px solid #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+.home_image_col1 {
+    background-image: url("https://www.ocregister.com/wp-content/uploads/migration/om0/om0u15-oscarwinners.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    border: 14px solid #fff;
+    transition: all 0.2s ease-in-out;
+}
+.home_image_col2 {
+    background-image: url("https://compote.slate.com/images/d5ee3107-e06f-4969-9c6e-3269cde4a6ee.jpeg?width=780&height=520&rect=1560x1040&offset=0x0");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    border: 14px solid #fff;
+    transition: all 0.2s ease-in-out;
+}
+
+/*---------------Actors--Page------*/
+.home_page .actorPage {
+    text-align: center;
+}
+.actorImage {
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+.back{
+    margin-top: 1em;
+    margin-left: 1em;
+    background: #000;
+    border-radius: 4px;
+}
+.back a {
+    color: #fff !important;
+    font-size: 1rem;
+}
+
+.profile-image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
