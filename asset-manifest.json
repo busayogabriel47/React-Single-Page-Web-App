@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Single-Page-Web-App/static/css/main.540c153e.chunk.css",
+    "main.js": "/React-Single-Page-Web-App/static/js/main.a7c307dc.chunk.js",
+    "main.js.map": "/React-Single-Page-Web-App/static/js/main.a7c307dc.chunk.js.map",
+    "runtime-main.js": "/React-Single-Page-Web-App/static/js/runtime-main.9fcf42e1.js",
+    "runtime-main.js.map": "/React-Single-Page-Web-App/static/js/runtime-main.9fcf42e1.js.map",
+    "static/css/2.ee406fcf.chunk.css": "/React-Single-Page-Web-App/static/css/2.ee406fcf.chunk.css",
+    "static/js/2.2eb1d613.chunk.js": "/React-Single-Page-Web-App/static/js/2.2eb1d613.chunk.js",
+    "static/js/2.2eb1d613.chunk.js.map": "/React-Single-Page-Web-App/static/js/2.2eb1d613.chunk.js.map",
+    "index.html": "/React-Single-Page-Web-App/index.html",
+    "precache-manifest.d3bc8d8f167f575774631935e7c062d0.js": "/React-Single-Page-Web-App/precache-manifest.d3bc8d8f167f575774631935e7c062d0.js",
+    "service-worker.js": "/React-Single-Page-Web-App/service-worker.js",
+    "static/css/2.ee406fcf.chunk.css.map": "/React-Single-Page-Web-App/static/css/2.ee406fcf.chunk.css.map",
+    "static/css/main.540c153e.chunk.css.map": "/React-Single-Page-Web-App/static/css/main.540c153e.chunk.css.map",
+    "static/js/2.2eb1d613.chunk.js.LICENSE.txt": "/React-Single-Page-Web-App/static/js/2.2eb1d613.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/React-Single-Page-Web-App/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fcf42e1.js",
+    "static/css/2.ee406fcf.chunk.css",
+    "static/js/2.2eb1d613.chunk.js",
+    "static/css/main.540c153e.chunk.css",
+    "static/js/main.a7c307dc.chunk.js"
+  ]
+}
